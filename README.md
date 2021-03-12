@@ -71,6 +71,7 @@ Please read the "SCSS Naming Convention" section first.
 ### !! **Note: **!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. Add more as needed like this:
 
 <br />
+
 ```css
 @if $breakpoint == mobile-landscape {
   @media only screen and (max-height: 482px) and (max-width: 1020px) {
@@ -89,6 +90,7 @@ Please read the "SCSS Naming Convention" section first.
 ## Example usage of the mixin in scss:
 
 <br />
+
 ```css
 .block {
   width: 600px;

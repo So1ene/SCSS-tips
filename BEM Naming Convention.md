@@ -50,6 +50,12 @@ This variation of BEM that I like to call 'CBEM' where we use BEM and then put s
 !! <mark>_** &**_</mark>_<mark>**element { } </mark>_\*\*_ _\*\*<mark>_ } _</mark>
 !! _<mark> } </mark>_\*\*_<mark> </mark>\_\*\*
 
+```css
+  .block  {                            will compile as:      .block__element {
+       &__element  {  }                                        }
+  }
+```
+
 ## Based on the above example, this is how your compiled** CSS **should look:
 
 ```css

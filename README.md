@@ -3,27 +3,26 @@
 Please read the "SCSS Naming Convention" section first.
 <br />
 
--   **mobile-S:** 0 - 374px (Most common devices view at **320px**)
--   **mobile-M:** 374px - 424px (Most common devices view at **375px**)
--   **mobile-L:** 424px - 600px (Most common devices view at **480px**)
--   **tablet:** 600px - 1020px (Most common devices view at **720px** & **768px**)
--   **laptop-S:** 1020 - 1300px (Most common devices view at **1024px** &** 1280px**)
--   **laptop-M:** 1300 - 1500px (Most common devices view at **1366px** & **1440px**)
--   **laptop-L:** 1500px + (Most common devices view at** 1600px** & **1920px**)
+-   **mobile-S:** &nbsp; 0 - 374px &nbsp; (Most common devices view at **320px**)
+-   **mobile-M:** &nbsp; 374px - 424px &nbsp; (Most common devices view at **375px**)
+-   **mobile-L:** &nbsp; 424px - 600px &nbsp; (Most common devices view at **480px**)
+-   **tablet:** &nbsp; 600px - 1020px &nbsp; (Most common devices view at **720px** & **768px**)
+-   **laptop-S:** &nbsp; 1020 - 1300px &nbsp; (Most common devices view at **1024px** &** 1280px**)
+-   **laptop-M:** &nbsp; 1300 - 1500px &nbsp; (Most common devices view at **1366px** & **1440px**)
+-   **laptop-L:** &nbsp; 1500px + &nbsp; (Most common devices view at** 1600px** & **1920px**)
 
 <br />
 
--   **mobile-all:** 0 - 600px
--   **mobile-tablet:** 0 - 1020px
+-   **mobile-all:** &nbsp; 0 - 600px
+-   **mobile-tablet:** &nbsp; 0 - 1020px
    
 <br />
 
--   **laptop-tablet:** 600px +
--   **laptop-all:** 1020px +
+-   **laptop-tablet:** &nbsp; 600px +
+-   **laptop-all:** &nbsp; 1020px +
 
-<br />
-## Make sure to check every 'common device views' to be sure they all look good
-<br />
+### Make sure to check every 'common device views' to be sure they all look good
+
 
 ```css
     // Breakpoints mixin (SCSS)
@@ -66,8 +65,7 @@ Please read the "SCSS Naming Convention" section first.
     }
 ```
 
-!! **Note: **
-!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. For example:
+### !! **Note: **!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. Add more as needed like this:
 
 ```css
 @if $breakpoint == mobile-landscape {
@@ -83,7 +81,7 @@ Please read the "SCSS Naming Convention" section first.
 }
 ```
 
-## Example usage of the mixin:
+## Example usage of the mixin in scss:
 
 ```css
 .block {
@@ -108,6 +106,6 @@ Please read the "SCSS Naming Convention" section first.
 }
 ```
 
-Keep the "@include breakpoint()" texts at the bottom of each element after their styling for the sake of legibility
+### Keep the "@include breakpoint()" texts at the bottom of each element after their styling for the sake of legibility
 
           

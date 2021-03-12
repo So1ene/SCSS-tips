@@ -53,7 +53,7 @@ This variation of BEM that I like to call 'CBEM' where we use BEM and then put s
   }
 ```
 
-## Based on the above example, this is how your compiled** CSS **should look:
+## Based on the above example, this is how the above SCSS compiles as CSS:
 
 ```css
 .container {

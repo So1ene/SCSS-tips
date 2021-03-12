@@ -1,8 +1,8 @@
 # BEM Naming Convention in SCSS
 
-As a Dev team we have decided that as our team grows, it would be a good idea to stick to one naming convention for SCSS, so that we can quickly look at each other's code and understand what is going on.
+It's good idea to stick to one naming convention for SCSS, so that we can quickly look at the code and understand what is going on and exactly where to find things.
 
-We use our own variation of BEM that we like to call 'CBEM' where we use BEM and then put separate sections in a **C**ontainer. There is usually only 1 container per web page body, it is used to avoid styles accidentally affecting other pages and to generally keep things organized and easier to read. You can learn more about BEM [<u>here</u>](https://css-tricks.com/bem-101/)<u>.</u>
+This variation of BEM that I like to call 'CBEM' where we use BEM and then put separate sections in a **C**ontainer. There is usually only 1 container per web page body or large section, it is used to avoid styles accidentally affecting other pages/sections and to generally keep things organized and easier to read. You can learn more about BEM [<u>here</u>](https://css-tricks.com/bem-101/)<u>.</u>
 
 # C**BEM**
 

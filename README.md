@@ -1,6 +1,7 @@
 # SCSS Breakpoint Mixin
 
 Please read the "SCSS Naming Convention" section first.
+<br />
 
 -   **mobile-S:** 0 - 374px (Most common devices view at **320px**)
 -   **mobile-M:** 374px - 424px (Most common devices view at **375px**)
@@ -9,12 +10,10 @@ Please read the "SCSS Naming Convention" section first.
 -   **laptop-S:** 1020 - 1300px (Most common devices view at **1024px** &** 1280px**)
 -   **laptop-M:** 1300 - 1500px (Most common devices view at **1366px** & **1440px**)
 -   **laptop-L:** 1500px + (Most common devices view at** 1600px** & **1920px**)
-
-
+<br />
 -   **mobile-all:** 0 - 600px
 -   **mobile-tablet:** 0 - 1020px
-
-
+<br />
 -   **laptop-tablet:** 600px +
 -   **laptop-all:** 1020px +
 

@@ -9,7 +9,7 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 -   **mobile-M:** &nbsp; 374px - 424px &nbsp; (Most common devices view at **375px**)
 -   **mobile-L:** &nbsp; 424px - 600px &nbsp; (Most common devices view at **480px**)
 -   **tablet:** &nbsp; 600px - 1020px &nbsp; (Most common devices view at **720px** & **768px**)
--   **laptop-S:** &nbsp; 1020 - 1300px &nbsp; (Most common devices view at **1024px** &** 1280px**)
+-   **laptop-S:** &nbsp; 1020 - 1300px &nbsp; (Most common devices view at **1024px** & **1280px**)
 -   **laptop-M:** &nbsp; 1300 - 1500px &nbsp; (Most common devices view at **1366px** & **1440px**)
 -   **laptop-L:** &nbsp; 1500px + &nbsp; (Most common devices view at** 1600px** & **1920px**)
 

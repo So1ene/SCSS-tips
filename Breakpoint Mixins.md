@@ -121,4 +121,11 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 
 <br />
 
-![Real life example](<Screenshot_1.jpg>)
+# Real Life Example
+
+![Screenshot_1.jpg](<./assets/Screenshot_1.jpg>)
+
+
+# Combining BEM Naming Convention with Breakpoint Mixins.
+
+![Screenshot_2.jpg](<./assets/Screenshot_2.jpg>)

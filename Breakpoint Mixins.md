@@ -123,11 +123,11 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 
 # Real Life Examples
 
-### Using scss variables like a smart cookie
+### Using scss variables like a smart cookie:
 
 ![Screenshot_1.jpg](<./assets/Screenshot_1.jpg>)
 
 
-### Combining BEM Naming Convention with Breakpoint Mixins.
+### Combining BEM Naming Convention with Breakpoint Mixins;
 
 ![Screenshot_2.jpg](<./assets/Screenshot_2.jpg>)

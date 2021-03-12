@@ -123,6 +123,8 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 
 # Real Life Example
 
+## Using scss variables like a smart cookie
+
 ![Screenshot_1.jpg](<./assets/Screenshot_1.jpg>)
 
 

@@ -45,12 +45,9 @@ This variation of BEM that I like to call 'CBEM' where we use BEM and then put s
 !! **Important: **Pay attention to the '**&**' symbol, read more about how it works [<u>here</u>](https://css-tricks.com/the-sass-ampersand/). There should be no space between the & and the underscores or dashes.
 
 !! **Note: **The & symbol makes it so that the 2 lines are put together as one class. So this means that:
-!! <sub>SCSS </sub> <sub>CSS</sub>
-!! <mark>\*\* **</mark><mark> .</mark><mark>_block { _</mark><mark>**\_ _\*\*</mark>_ _will compile as: <mark> </mark><mark>_.block**element { _</mark>
-!! <mark>_** &**_</mark>_<mark>**element { } </mark>_\*\*_ _\*\*<mark>_ } _</mark>
-!! _<mark> } </mark>_\*\*_<mark> </mark>\_\*\*
-
 ```css
+   SCSS:                                                     CSS:
+   
   .block  {                            will compile as:      .block__element {
        &__element  {  }                                        }
   }

@@ -21,7 +21,9 @@ Please read the "SCSS Naming Convention" section first.
 -   **laptop-tablet:** 600px +
 -   **laptop-all:** 1020px +
 
-Make sure to check every 'common device views' to be sure they all look good
+<br />
+## Make sure to check every 'common device views' to be sure they all look good
+<br />
 
 ```css
     // Breakpoints mixin (SCSS)

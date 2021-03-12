@@ -1,4 +1,4 @@
-# SCSS Breakpoint Mixin
+# SCSS Breakpoint Mixins
 
 Please read the "SCSS Naming Convention" section first.
 <br />

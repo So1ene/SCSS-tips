@@ -1,10 +1,4 @@
-
-title: SCSS Naming Convention
-created at: Tue Sep 08 2020 23:55:16 GMT+0000 (Coordinated Universal Time)
-updated at: Mon Dec 14 2020 00:37:27 GMT+0000 (Coordinated Universal Time)
----
-
-# SCSS Naming Convention
+# BEM Naming Convention in SCSS
 
 As a Dev team we have decided that as our team grows, it would be a good idea to stick to one naming convention for SCSS, so that we can quickly look at each other's code and understand what is going on.
 

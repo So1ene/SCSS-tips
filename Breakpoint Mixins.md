@@ -117,6 +117,8 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 ```
 <br />
 
-### Keep the "@include breakpoint()" texts at the bottom of each element after their styling for the sake of legibility
+### Keep the "@include breakpoint()" texts at the bottom of each element (after their styling) for the sake of legibility
 
-          
+<br />
+
+![Real life example](<Screenshot_1.jpg>)

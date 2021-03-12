@@ -1,6 +1,6 @@
 # SCSS Breakpoint Mixins
 
-Please read the "SCSS Naming Convention" section first.
+Please read the ["SCSS Naming Convention"](<BEM Naming Convention.md>) section first.
 <br />
 
 -   **mobile-S:** &nbsp; 0 - 374px &nbsp; (Most common devices view at **320px**)

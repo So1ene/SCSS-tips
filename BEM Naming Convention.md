@@ -96,6 +96,10 @@ For example, you can put a block inside a block, and an element inside an elemen
 
 ![image.png](<./assets/image.png>)
 
+**Example usage in html**
+
+![image.png](<./assets/Screenshot_3.jpg>)
+
 
 <br />
 

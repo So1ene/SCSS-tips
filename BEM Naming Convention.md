@@ -44,7 +44,7 @@ This variation of BEM that I like to call 'CBEM' where we use BEM and then put s
 
 !! **Important: **Pay attention to the '**&**' symbol, read more about how it works [<u>here</u>](https://css-tricks.com/the-sass-ampersand/). There should be no space between the & and the underscores or dashes.
 
-!! **Note: **The & symbol makes it so that the 2 lines are put together as one class. So this means that:
+!! **Note:** The & symbol makes it so that the 2 lines are put together as one class. So this means that:
 ```css
    SCSS:                                                     CSS:
    
@@ -82,7 +82,7 @@ And your HTML can have something like this:
         </div>
     </div>
 
-**This is just a starting point, a guideline. You do not have to follow this exactly. **
+### This is just a starting point, a guideline. You do not have to follow this exactly.
 
 For example, you can put a block inside a block, and an element inside an element, there is no problem with that, I do that all the time, just use common sense to see what looks good to you. The whole point of the naming convention is so that we can easily read and understand what is going on in your code.
 
@@ -90,10 +90,10 @@ For example, you can put a block inside a block, and an element inside an elemen
 
 **SCSS (how you would write it)**
 
-![image.png](media_SCSS%20Naming%20Convention/image.png)
+![image.png](./assets/bem-scss-example.png)
 
 **Compiled CSS of the example above**
 
-![image.png](media_SCSS%20Naming%20Convention/63887b9b-3abe-4056-9dba-2d25401ee9d0_image.png)
+![image.png](./assets/bem-css-example.png)
 
           

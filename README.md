@@ -12,7 +12,7 @@ Please read the "SCSS Naming Convention" section first.
 
 
 -   **mobile-all:** 0 - 600px
--   **mobile-tablet: **0 - 1020px
+-   **mobile-tablet:** 0 - 1020px
 
 
 -   **laptop-tablet:** 600px +

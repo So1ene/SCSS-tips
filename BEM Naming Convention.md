@@ -90,7 +90,7 @@ For example, you can put a block inside a block, and an element inside an elemen
 
 **SCSS (how you would write it)**
 
-![image (1).png](<./assets/image (1)>.png)
+![image (1).png](<./assets/image (1).png>)
 
 **Compiled CSS of the example above**
 

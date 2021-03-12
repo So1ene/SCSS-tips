@@ -70,7 +70,7 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 ```
 <br />
 
-### !! **Note: **!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. Add more as needed like this:
+### !! **Note: **!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. For example, add more breakpoints as needed like this:
 
 <br />
 

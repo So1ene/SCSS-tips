@@ -90,10 +90,10 @@ For example, you can put a block inside a block, and an element inside an elemen
 
 **SCSS (how you would write it)**
 
-![image.png](./assets/bem-scss-example.png)
+![image (1).png](<./assets/image (1)>.png)
 
 **Compiled CSS of the example above**
 
-![image.png](./assets/bem-css-example.png)
+![image.png](<./assets/image.png>)
 
           

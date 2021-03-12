@@ -121,9 +121,9 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 
 <br />
 
-# Real Life Example
+# Real Life Examples
 
-## Using scss variables like a smart cookie
+### Using scss variables like a smart cookie
 
 ![Screenshot_1.jpg](<./assets/Screenshot_1.jpg>)
 

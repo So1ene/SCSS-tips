@@ -44,7 +44,7 @@ This variation of BEM that I like to call 'CBEM' where we use BEM and then put s
 
 !! **Important: **Pay attention to the '**&**' symbol, read more about how it works [<u>here</u>](https://css-tricks.com/the-sass-ampersand/). There should be no space between the & and the underscores or dashes.
 
-!! **Note:** The & symbol makes it so that the 2 lines are put together as one class. So this means that:
+The & symbol makes it so that the 2 lines are put together as one class. So this means that:
 ```css
    SCSS:                                                     CSS:
    

@@ -21,6 +21,7 @@ Please read the "SCSS Naming Convention" section first.
 -   **laptop-tablet:** &nbsp; 600px +
 -   **laptop-all:** &nbsp; 1020px +
 <br />
+
 ### Make sure to check every 'common device views' to be sure they all look good
 
 <br />
@@ -65,9 +66,11 @@ Please read the "SCSS Naming Convention" section first.
     	@media only screen and (min-width: 600px) { @content }; // All laptop breakpoints + tablet
     }
 ```
+<br />
 
 ### !! **Note: **!! This is just a guide/starting point, you can add more breakpoints on a project by project basis. Add more as needed like this:
 
+<br />
 ```css
 @if $breakpoint == mobile-landscape {
   @media only screen and (max-height: 482px) and (max-width: 1020px) {
@@ -81,9 +84,11 @@ Please read the "SCSS Naming Convention" section first.
   } // Extremely large phone or small tablet
 }
 ```
+<br />
 
 ## Example usage of the mixin in scss:
 
+<br />
 ```css
 .block {
   width: 600px;
@@ -106,6 +111,7 @@ Please read the "SCSS Naming Convention" section first.
   }
 }
 ```
+<br />
 
 ### Keep the "@include breakpoint()" texts at the bottom of each element after their styling for the sake of legibility
 

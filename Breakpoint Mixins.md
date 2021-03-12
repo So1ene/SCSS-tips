@@ -24,7 +24,7 @@ Please read the "[BEM Naming Convention](<BEM Naming Convention.md>)" section fi
 -   **laptop-all:** &nbsp; 1020px +
 <br />
 
-### Make sure to check every 'common device views' to be sure they all look good
+### While building your site, make sure to check every 'common device views' to be sure they all look good
 
 <br />
 
